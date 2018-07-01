@@ -36,6 +36,7 @@ const (
 	nfsPluginName                  = "kubernetes.io~nfs"
 	quobytePluginName              = "kubernetes.io~quobyte"
 	rbdPluginName                  = "kubernetes.io~rbd"
+	rookPluginName                 = "rook.io/block"
 	secretPluginName               = "kubernetes.io~secret"
 	vsphereVolumePluginName        = "kubernetes.io~vsphere-volume"
 )
